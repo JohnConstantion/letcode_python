@@ -5,3 +5,7 @@ import os
 print(os.getcwd(), end='')
 print('今天早点休息')
 print('1', '2', '3')
+'''
+注释 三个单引号和三个双引号都是一样的。
+和java的文档注释类似
+'''
